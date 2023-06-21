@@ -76,7 +76,7 @@ git clone https://github.com/shaaibu7/hello-rails-back-end.git
 
 #### Fron-End <a name="built-with"></a>
 
-[hello-react-front-end](https://github.com/shaaibu7/hello-react-front-end)
+[hello-react-front-end](https://github.com/shaaibu7/hello-react-front-end/tree/project-setup)
 
 ### Install
 
